@@ -26,6 +26,14 @@ Installation:
 ==========================================================================
 Changelog
 
+V1.1.5
+
+-UPDATED TO 1.12.x.
+
+-KopernicusExpasion was removed from KG files. Now have to be download from original link.
+
+- Texture were converted to DDS again.
+
 V1.1.4
 
 -Has been updated to 1.8.1
