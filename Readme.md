@@ -1,4 +1,4 @@
-=========================================================================================
+==========================================================================
 Original Mod KG2 and INSTANTIATOR Mod By Artyomka15.
 
 Original Post http://bit.ly/KerbalG2 (This link is only a shortener and does not contain ads).
