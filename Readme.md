@@ -17,7 +17,7 @@ Installation:
 
 2- Download the "(1.8.x) V1.1.4 KerbalGalaxy 3".
 
-3- Download the "KG3Textures". Link http://bit.ly/KG3-Texture (This link is only a shortener and does not contain ads)
+3- Download the "[KG3Textures](https://github.com/Ledvin25/KG3-Textures/releases)".
 
 4- Drop "GameData" in your folder "KerbalSpaceProgram".
 
